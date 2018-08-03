@@ -18,9 +18,8 @@ h2 {
 	margin-top:10px;
 }
 
-
 #loginform{
-	margin-top:40px;   /*margen superior*/
+	margin-top:35px;   /*margen superior*/
   margin-left:auto;   /*margen izquierdo*/
   margin-right:auto;  /*margen derecho*/
 	width:335px;       /*ancho*/
@@ -43,7 +42,6 @@ h2 {
 	border-radius: 10px;
 	color:#F4F6F7;
 }
-
 
 .face {
 	font-size: 40px;
